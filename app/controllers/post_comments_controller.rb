@@ -14,6 +14,7 @@ class PostCommentsController < ApplicationController
   end
   
   
+  
   private
 
   def post_comment_params
